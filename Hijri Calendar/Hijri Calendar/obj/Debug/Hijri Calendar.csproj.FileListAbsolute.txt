@@ -1,0 +1,11 @@
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Hijri Calendar\Hijri Calendar\obj\Debug\Hijri Calendar.csprojResolveAssemblyReference.cache
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Hijri Calendar\Hijri Calendar\obj\Debug\Hijri_Calendar.frmSetting.resources
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Hijri Calendar\Hijri Calendar\obj\Debug\Hijri_Calendar.PicureIcon.resources
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Hijri Calendar\Hijri Calendar\obj\Debug\Hijri_Calendar.Properties.Resources.resources
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Hijri Calendar\Hijri Calendar\obj\Debug\Hijri Calendar.csproj.GenerateResource.Cache
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Hijri Calendar\Hijri Calendar\bin\Debug\Hijri Calendar.exe
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Hijri Calendar\Hijri Calendar\bin\Debug\Hijri Calendar.pdb
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Hijri Calendar\Hijri Calendar\bin\Debug\HijriLib.dll
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Hijri Calendar\Hijri Calendar\bin\Debug\HijriLib.pdb
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Hijri Calendar\Hijri Calendar\obj\Debug\Hijri Calendar.exe
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Hijri Calendar\Hijri Calendar\obj\Debug\Hijri Calendar.pdb

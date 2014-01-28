@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Documents and Settings\Administrator\desktop\Hijri\|C:\Documents and Settings\Asad\Desktop\MyProjects\Calendar\|C:\Documents and Settings\Asad\Desktop\MyProjects\|C:\Documents and Settings\Ahmad\Desktop\Hijri Final\|C:\Documents and Settings\Ahmad\Desktop\Hijri1\</PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>C:\Documents and Settings\Administrator\desktop\WebSite</BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+    <ErrorReportUrlHistory />
+  </PropertyGroup>
+</Project>

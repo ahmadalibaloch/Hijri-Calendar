@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<times>
+	<jan>
+		<date value="1">
+			<fagir>4:12</fagir>
+			<zohar>13:45</zohar>
+		</date>
+		<date value="2">
+			<fagir>4:15</fagir>
+			<zohar>13:46</zohar>
+		</date>
+	</jan>
+	<fab>
+		<date value="1">
+			<fagir>4:15</fagir>
+			<zohar>13:50</zohar>
+		</date>	
+	</fab>
+
+</times>
+
